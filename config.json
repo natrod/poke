@@ -1,7 +1,7 @@
 {
     "auth_service": "ptc",
     "username": "anothernameforme",
-    "password": "pokemon123!",
+    "password": "",
     "location": "new york",
     "gmapkey": "pokemongo-1472135427245",
     "encrypt_location": "",
